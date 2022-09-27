@@ -16,7 +16,7 @@ I am currently a University of California, San Diego Computer Science Senior and
 I am currently taking: 
 * Advanced Data Structures in C++ 
 * Digital Systems 
-* Teaching Computational Thinking for Everyone - [Link to my teaching portfolio website]()
+* Teaching Computational Thinking for Everyone - [Link to my teaching portfolio website](https://ajkristanto.github.io/teaching-portfolio/)
 * Teaching Computation in the Digital World
 
 ---
