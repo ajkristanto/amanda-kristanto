@@ -19,6 +19,8 @@ I am currently taking:
 * Teaching Computational Thinking for Everyone - [Link to my teaching portfolio website]()
 * Teaching Computation in the Digital World
 
+---
+
 I also participated in a program that introduces CSE graduates to research called the ERSP program. In this program we were divided into teams to conduct a year long research project alongside a professor and graduate students. My team and I researched on how to make inverse rendering operations more efficient to fit on a mobile device by implementing MobileNet.
 
 [Inverse rendering for Mobile Computer Vision Applications poster](https://ersp.eng.ucsd.edu/projects/2021-2022-projects#h.qljgrc2nagdh)
