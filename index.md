@@ -24,3 +24,11 @@ I am currently taking:
 I also participated in a program that introduces CSE graduates to research called the ERSP program. In this program we were divided into teams to conduct a year long research project alongside a professor and graduate students. My team and I researched on how to make inverse rendering operations more efficient to fit on a mobile device by implementing MobileNet.
 
 [Inverse rendering for Mobile Computer Vision Applications poster](https://ersp.eng.ucsd.edu/projects/2021-2022-projects#h.qljgrc2nagdh)
+
+--- 
+
+## Experience 
+
+Check out my [LinkedIn](https://www.linkedin.com/in/amanda-kristanto-1094a6172/) for more details! 
+
+I was a Software Development Engineer Intern for Mastercard in Summer 2022. During my time there I learnt how to develop webpages with an Angular frontend and a Springboot and Java backend for Mastercard's Track B2B division. I worked in a small team of engineers where we participated in daily standup meetings, collaborated on user stories, and solved puzzles! Additionally, I learnt how to utilize Wiremocks and Git. This was a good experience for me because even though I had little exposure to most of the programs used, by self-learning and asking questions I was able to develop both my technical skill set as well as be a team player. 
