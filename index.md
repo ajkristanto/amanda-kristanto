@@ -11,13 +11,19 @@ I am currently a University of California, San Diego Computer Science Senior and
 * Discrete Mathematics
 * Theory of Computation
 * Engineering Probability and Statitics
+* Digital Systems 
+* Teaching Computational Thinking for Everyone - [Link to my teaching portfolio website]([https://ajkristanto.github.io/teaching-portfolio/](https://ajkristanto.github.io/teaching-portfolio/index.html))
+* Teaching Computation in the Digital World
+* Computer Architecture
+* Computer Vision 
+* Innovation and Technology Strategy 
+* Data Science in Practice 
 
 
 I am currently taking: 
 * Advanced Data Structures in C++ 
-* Digital Systems 
-* Teaching Computational Thinking for Everyone - [Link to my teaching portfolio website]([https://ajkristanto.github.io/teaching-portfolio/](https://ajkristanto.github.io/teaching-portfolio/index.html))
-* Teaching Computation in the Digital World
+* Product Management and Marketing
+* Design and Analysis of Algorithm
 
 ---
 
