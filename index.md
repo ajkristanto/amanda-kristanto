@@ -17,13 +17,17 @@ I am currently a University of California, San Diego Computer Science Senior and
 * Computer Architecture
 * Computer Vision 
 * Innovation and Technology Strategy 
-* Data Science in Practice 
-
-
-I am currently taking: 
+* Data Science in Practice
 * Advanced Data Structures in C++ 
 * Product Management and Marketing
 * Design and Analysis of Algorithm
+
+
+I will be taking: 
+* Software Engineering
+* Introduction to Modern Cryptography
+* Database System Principles
+* Principles of Computer Operating Systems 
 
 ---
 
