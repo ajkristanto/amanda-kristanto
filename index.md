@@ -39,7 +39,7 @@ I also participated in a program that introduces CSE graduates to research calle
 
 ## Experience 
 
-Check out my [LinkedIn](https://www.linkedin.com/in/amanda-kristanto-1094a6172/) and [resume]([resume 2023.pdf](https://ajkristanto.github.io/introduction/resume-2023.pdf)) for more details! 
+Check out my [LinkedIn](https://www.linkedin.com/in/amanda-kristanto-1094a6172/) and [resume](https://ajkristanto.github.io/introduction/resume-2023.pdf) for more details! 
 
 I was a Software Development Engineer Intern for Mastercard in Summer 2022. During my time there I learnt how to develop webpages with an Angular frontend and a Springboot and Java backend for Mastercard's Track B2B division. I worked in a small team of engineers where we participated in daily standup meetings, collaborated on user stories, and solved puzzles! Additionally, I learnt how to utilize Wiremocks and Git. This was a good experience for me because even though I had little exposure to most of the programs used, by self-learning and asking questions I was able to develop both my technical skill set as well as be a team player. 
 
